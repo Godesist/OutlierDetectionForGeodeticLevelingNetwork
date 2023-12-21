@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Utkan Mustafa 
+    given-names: Durdağ
+    orcid: https://orcid.org/0000-0003-2049-6587
+title: "Publication"
+version: 0.1.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.10417506
+date-released: 2023-21-12
